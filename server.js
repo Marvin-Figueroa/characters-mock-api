@@ -1,5 +1,6 @@
 const jsonServer = require("json-server");
 const path = require("path");
+const express = require("express");
 const server = jsonServer.create();
 const router = jsonServer.router(path.join(__dirname, "db.json"));
 const middlewares = jsonServer.defaults();
@@ -22,7 +23,7 @@ server.use((req, res, next) => {
 // Configura la ruta para servir imágenes estáticas
 server.use(
   "/characters",
-  jsonServer.static(path.join(__dirname, "public/characters"))
+  express.static(path.join(__dirname, "public/characters"))
 );
 
 // Establecer una ruta base personalizada
