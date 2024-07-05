@@ -4,6 +4,27 @@ const server = jsonServer.create();
 const router = jsonServer.router(path.join(__dirname, "db.json"));
 const middlewares = jsonServer.defaults();
 
+// Configura los middlewares
+server.use(middlewares);
+server.use(jsonServer.bodyParser);
+
+// Configura los encabezados CORS
+server.use((req, res, next) => {
+  res.header(
+    "Access-Control-Allow-Origin",
+    "https://personajes-historicos-app.vercel.app"
+  );
+  res.header("Access-Control-Allow-Methods", "GET,POST,PUT,DELETE,OPTIONS");
+  res.header("Access-Control-Allow-Headers", "Content-Type, Authorization");
+  next();
+});
+
+// Configura la ruta para servir imágenes estáticas
+server.use(
+  "/characters",
+  jsonServer.static(path.join(__dirname, "public/characters"))
+);
+
 // Establecer una ruta base personalizada
 server.use("/api", router);
 
