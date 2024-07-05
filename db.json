@@ -1,0 +1,304 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Leonardo da Vinci",
+      "birthDate": "1452-04-15",
+      "deathDate": "1519-05-02",
+      "nationality": "Italian",
+      "biography": "Leonardo da Vinci was a polymath of the Italian Renaissance whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, paleontology, and cartography. He is widely considered one of the most diversely talented individuals ever to have lived. His most famous works include the Mona Lisa and The Last Supper. Leonardo's scientific inquiries and notebooks revealed an unquenchable curiosity and a rigorous methodology that often prefigured many modern scientific and technological advancements. He conceptualized flying machines, armored vehicles, and concentrated solar power, among other ideas, demonstrating his futuristic vision. Despite his vast array of interests and contributions, Leonardo considered himself primarily an artist, a perspective that influenced his approach to scientific observation and experimentation.",
+      "imageUrl": "/characters/leonardo.jpg",
+      "occupation": "Polymath"
+    },
+    {
+      "id": 2,
+      "name": "Albert Einstein",
+      "birthDate": "1879-03-14",
+      "deathDate": "1955-04-18",
+      "nationality": "German",
+      "biography": "Albert Einstein was a theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics). His work is also known for its influence on the philosophy of science. He is best known for his equation E=mc^2, which expresses the equivalence of mass and energy. Einstein received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect, a pivotal step in the development of quantum theory. Beyond his groundbreaking scientific contributions, Einstein was an outspoken advocate for civil rights, a committed pacifist, and an ardent Zionist, playing a significant role in the establishment of the Hebrew University of Jerusalem. His intellectual achievements and originality have made the name 'Einstein' synonymous with 'genius'.",
+      "imageUrl": "/characters/einstein.jpg",
+      "occupation": "Physicist"
+    },
+    {
+      "id": 3,
+      "name": "Isaac Newton",
+      "birthDate": "1643-01-04",
+      "deathDate": "1727-03-31",
+      "nationality": "English",
+      "biography": "Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the most influential scientists of all time and a key figure in the scientific revolution. His book 'Philosophiæ Naturalis Principia Mathematica' (Mathematical Principles of Natural Philosophy), first published in 1687, laid the foundations of classical mechanics. Newton formulated the laws of motion and universal gravitation, which dominated scientists' view of the physical universe for the next three centuries and are the basis for modern engineering. He made seminal contributions to optics and shares credit for developing calculus with Gottfried Wilhelm Leibniz. Newton's work in mathematics and physics has had a profound and lasting impact on the world, shaping our understanding of the natural laws that govern the universe.",
+      "imageUrl": "/characters/newton.jpg",
+      "occupation": "Mathematician"
+    },
+    {
+      "id": 4,
+      "name": "Marie Curie",
+      "birthDate": "1867-11-07",
+      "deathDate": "1934-07-04",
+      "nationality": "Polish",
+      "biography": "Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person and the only woman to win the Nobel Prize twice, and the only person to win the Nobel Prize in two different scientific fields (Physics and Chemistry). Her discoveries included the elements polonium and radium. Under her direction, the world's first studies were conducted into the treatment of neoplasms (cancers) using radioactive isotopes. Curie's efforts with her husband Pierre Curie led to the development of X-ray machines. She founded the Curie Institutes in Paris and in Warsaw, which remain major centers of medical research today. Marie Curie's legacy is monumental, and she remains an enduring symbol of scientific achievement and perseverance.",
+      "imageUrl": "/characters/curie.jpg",
+      "occupation": "Chemist"
+    },
+    {
+      "id": 5,
+      "name": "Mahatma Gandhi",
+      "birthDate": "1869-10-02",
+      "deathDate": "1948-01-30",
+      "nationality": "Indian",
+      "biography": "Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and in turn inspired movements for civil rights and freedom across the world. The honorific Mahātmā (Sanskrit: 'great-souled', 'venerable'), first applied to him in 1914 in South Africa, is now used throughout the world. Gandhi's vision of an independent India based on religious pluralism, however, was challenged in the early 1940s by a new Muslim nationalism which was demanding a separate Muslim homeland carved out of India. Eventually, in August 1947, Britain granted independence, but the British Indian Empire was partitioned into two dominions, a Hindu-majority India and a Muslim-majority Pakistan. As many displaced Hindus, Muslims, and Sikhs made their way to their new lands, religious violence broke out, especially in the Punjab and Bengal. Eschewing the official celebration of independence in Delhi, Gandhi visited the affected areas, attempting to provide solace. In January 1948, he carried out yet another fast, this time to bring about peace in the national capital. Some Indians thought Gandhi was too accommodating. Among them was Nathuram Godse, a Hindu nationalist, who assassinated Gandhi on 30 January 1948 by firing three bullets into his chest.",
+      "imageUrl": "/characters/gandhi.jpg",
+      "occupation": "Lawyer"
+    },
+    {
+      "id": 6,
+      "name": "Martin Luther King Jr.",
+      "birthDate": "1929-01-15",
+      "deathDate": "1968-04-04",
+      "nationality": "American",
+      "biography": "Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1955 until his assassination in 1968. Born in Atlanta, Georgia, King advanced civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. He led the 1955 Montgomery bus boycott and later became the first president of the Southern Christian Leadership Conference (SCLC). King is best known for his role in the advancement of civil rights using nonviolent civil disobedience based on his Christian beliefs. His famous 'I Have a Dream' speech, delivered during the 1963 March on Washington, called for an end to racism and helped galvanize the civil rights movement. He was awarded the Nobel Peace Prize in 1964 for combating racial inequality through nonviolent resistance.",
+      "imageUrl": "/characters/mlk.jpg",
+      "occupation": "Minister"
+    },
+    {
+      "id": 7,
+      "name": "Nelson Mandela",
+      "birthDate": "1918-07-18",
+      "deathDate": "2013-12-05",
+      "nationality": "South African",
+      "biography": "Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. Mandela's presidency marked the end of decades of institutionalized racial segregation and discrimination in South Africa, known as apartheid. Imprisoned for 27 years for his anti-apartheid activities, Mandela became a symbol of resistance and perseverance. His leadership in negotiating the end of apartheid earned him the Nobel Peace Prize in 1993. Mandela's legacy extends beyond his political achievements, as he worked tirelessly for peace, reconciliation, and social justice.",
+      "imageUrl": "/characters/mandela.jpg",
+      "occupation": "Revolutionary"
+    },
+    {
+      "id": 8,
+      "name": "William Shakespeare",
+      "birthDate": "1564-04-26",
+      "deathDate": "1616-04-23",
+      "nationality": "English",
+      "biography": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. His extant works, including collaborations, consist of some 39 plays, 154 sonnets, three long narrative poems, and a few other verses. His plays have been translated into every major living language and are performed more often than those of any other playwright. Shakespeare's works remain highly popular and are constantly studied, performed, and reinterpreted in diverse cultural and political contexts throughout the world. He is often called England's national poet and the 'Bard of Avon'. His notable works include tragedies such as 'Hamlet', 'Othello', 'King Lear', and 'Macbeth', comedies like 'A Midsummer Night's Dream', 'Much Ado About Nothing', and 'As You Like It', and histories such as 'Henry V' and 'Richard III'.",
+      "imageUrl": "/characters/shakespeare.jpg",
+      "occupation": "Playwright"
+    },
+    {
+      "id": 9,
+      "name": "Abraham Lincoln",
+      "birthDate": "1809-02-12",
+      "deathDate": "1865-04-15",
+      "nationality": "American",
+      "biography": "Abraham Lincoln was an American lawyer and politician who served as the 16th president of the United States from 1861 until his assassination in 1865. Lincoln led the nation through the American Civil War, its bloodiest war and its greatest moral, constitutional, and political crisis. He preserved the Union, abolished slavery, strengthened the federal government, and modernized the U.S. economy. Lincoln's Gettysburg Address and his second inaugural address are two of the most quoted speeches in American history. He was known for his eloquent and forceful style of oratory, which helped to unite the country during a time of great division. His leadership during the Civil War and his efforts to end slavery have earned him a place among the greatest American presidents.",
+      "imageUrl": "/characters/lincoln.webp",
+      "occupation": "Politician"
+    },
+    {
+      "id": 10,
+      "name": "George Washington",
+      "birthDate": "1732-02-22",
+      "deathDate": "1799-12-14",
+      "nationality": "American",
+      "biography": "George Washington was an American political leader, military general, statesman, and Founding Father who served as the first president of the United States from 1789 to 1797. He led Patriot forces to victory in the nation's War for Independence and presided at the Constitutional Convention of 1787, which established the Constitution of the United States and a federal government. Washington has been called the 'Father of His Country' for his manifold leadership in the formative days of the new nation. His leadership in the Continental Army during the American Revolutionary War and his guidance in the drafting of the U.S. Constitution were pivotal in establishing the country's governance and democratic principles. His presidency set many precedents, including the tradition of a peaceful transfer of power.",
+      "imageUrl": "/characters/washington.jpg",
+      "occupation": "Military general"
+    },
+    {
+      "id": 11,
+      "name": "Napoleon Bonaparte",
+      "birthDate": "1769-08-15",
+      "deathDate": "1821-05-05",
+      "nationality": "French",
+      "biography": "Napoleon Bonaparte was a French military and political leader who rose to prominence during the French Revolution and led several successful campaigns during the Revolutionary Wars. As Napoleon I, he was Emperor of the French from 1804 until 1814, and again briefly in 1815 during the Hundred Days. Napoleon dominated European and global affairs for more than a decade while leading France against a series of coalitions in the Napoleonic Wars. He won most of these wars and the vast majority of his battles, building a large empire that ruled over continental Europe before its final collapse in 1815. His Napoleonic Code has been a major influence on many civil law jurisdictions worldwide. Despite his final defeat at the Battle of Waterloo and subsequent exile, Napoleon is remembered as one of the greatest military commanders in history.",
+      "imageUrl": "/characters/napoleon.jpg",
+      "occupation": "Political leader"
+    },
+    {
+      "id": 12,
+      "name": "Galileo Galilei",
+      "birthDate": "1564-02-15",
+      "deathDate": "1642-01-08",
+      "nationality": "Italian",
+      "biography": "Galileo Galilei was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the 'father' of observational astronomy, modern physics, the scientific method, and modern science. His contributions to the fields of physics and astronomy were revolutionary. He improved the telescope and made significant astronomical observations, including the four largest moons of Jupiter, the phases of Venus, and the rings of Saturn. Galileo's advocacy of heliocentrism and Copernicanism was controversial during his lifetime, leading to his trial and house arrest by the Roman Catholic Inquisition. His work laid the groundwork for modern physics and astronomy, and his scientific methods emphasized the importance of observation and experimentation.",
+      "imageUrl": "/characters/galileo.jpg",
+      "occupation": "Astronomer"
+    },
+    {
+      "id": 13,
+      "name": "Christopher Columbus",
+      "birthDate": "1451-10-31",
+      "deathDate": "1506-05-20",
+      "nationality": "Italian",
+      "biography": "Christopher Columbus was an Italian explorer and navigator who completed four voyages across the Atlantic Ocean, opening the way for the widespread European exploration and colonization of the Americas. Columbus's expeditions, sponsored by the Catholic Monarchs of Spain, were the first European contact with the Caribbean, Central America, and South America. While he was not the first European to reach the Americas, his voyages had a profound impact on the course of world history, marking the beginning of centuries of transatlantic colonization and conquest. Columbus's legacy is controversial, with criticism regarding the negative impact of his expeditions on indigenous populations. Nonetheless, he remains a key figure in the history of exploration and the Age of Discovery.",
+      "imageUrl": "/characters/columbus.jpg",
+      "occupation": "Explorer"
+    },
+    {
+      "id": 14,
+      "name": "Thomas Edison",
+      "birthDate": "1847-02-11",
+      "deathDate": "1931-10-18",
+      "nationality": "American",
+      "biography": "Thomas Edison was an American inventor and businessman who has been described as America's greatest inventor. He developed many devices in fields such as electric power generation, mass communication, sound recording, and motion pictures. Edison's inventions, including the phonograph, the motion picture camera, and the long-lasting, practical electric light bulb, have had a widespread impact on the modern industrialized world. He established the first industrial research laboratory and promoted the concept of teamwork in scientific research, leading to many groundbreaking discoveries. Edison held over 1,000 patents and his contributions to the development of modern technology are immeasurable.",
+      "imageUrl": "/characters/edison.jpg",
+      "occupation": "Inventor"
+    },
+    {
+      "id": 15,
+      "name": "Nikola Tesla",
+      "birthDate": "1856-07-10",
+      "deathDate": "1943-01-07",
+      "nationality": "Serbian-American",
+      "biography": "Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Tesla's work laid the foundation for modern electrical engineering and his inventions and theoretical work led to the development of radio, radar, and wireless communications. Although he was less financially successful and famous during his lifetime compared to contemporaries like Thomas Edison, Tesla's legacy has grown significantly in the years following his death. He is now recognized as one of the most important inventors in history and his name is synonymous with innovation and futuristic vision.",
+      "imageUrl": "/characters/tesla.jpeg",
+      "occupation": "Inventor"
+    },
+    {
+      "id": 16,
+      "name": "Pablo Picasso",
+      "birthDate": "1881-10-25",
+      "deathDate": "1973-04-08",
+      "nationality": "Spanish",
+      "biography": "Pablo Picasso fue un pintor, escultor, grabador, ceramista y diseñador teatral español que pasó la mayor parte de su vida adulta en Francia. Es considerado uno de los artistas más influyentes del siglo XX. Picasso es conocido por cofundar el movimiento cubista, la invención de la escultura construida y la co-invención del collage, así como por la gran variedad de estilos que ayudó a desarrollar y explorar. Entre sus obras más famosas se encuentran 'Les Demoiselles d'Avignon' y 'Guernica', un poderoso comentario sobre los horrores de la guerra.",
+      "imageUrl": "/characters/picasso.jpg",
+      "occupation": "Painter"
+    },
+    {
+      "id": 17,
+      "name": "Sigmund Freud",
+      "birthDate": "1856-05-06",
+      "deathDate": "1939-09-23",
+      "nationality": "Austrian",
+      "biography": "Sigmund Freud fue un neurólogo austriaco y el fundador del psicoanálisis, un método clínico para tratar la psicopatología a través del diálogo entre un paciente y un psicoanalista. Su teoría del inconsciente y su modelo estructural de la mente (id, ego y superyó) revolucionaron el campo de la psicología. Freud también desarrolló técnicas terapéuticas como el uso de la asociación libre y la interpretación de los sueños, y sus ideas han tenido un impacto duradero en el campo de la psicoterapia y más allá.",
+      "imageUrl": "/characters/freud.jpg",
+      "occupation": "Neurologist"
+    },
+    {
+      "id": 18,
+      "name": "Ludwig van Beethoven",
+      "birthDate": "1770-12-17",
+      "deathDate": "1827-03-26",
+      "nationality": "German",
+      "biography": "Ludwig van Beethoven fue un compositor y pianista alemán. Beethoven sigue siendo uno de los compositores más admirados en la historia de la música occidental; sus obras se encuentran entre las más interpretadas del repertorio de la música clásica. Su música abarca el período entre el clasicismo y el romanticismo, y su estilo compositivo evolucionó a lo largo de su vida, influenciando a innumerables compositores y músicos que le siguieron. Entre sus obras más conocidas se encuentran la 'Novena Sinfonía', 'Für Elise' y las sonatas para piano.",
+      "imageUrl": "/characters/beethoven.jpg",
+      "occupation": "Composer"
+    },
+    {
+      "id": 19,
+      "name": "Charles Darwin",
+      "birthDate": "1809-02-12",
+      "deathDate": "1882-04-19",
+      "nationality": "British",
+      "biography": "Charles Darwin fue un naturalista, geólogo y biólogo inglés, mejor conocido por sus contribuciones a la ciencia de la evolución. Su propuesta de que todas las especies de vida han descendido de ancestros comunes es ahora ampliamente aceptada y considerada un concepto fundamental en la ciencia. Su obra más conocida, 'El origen de las especies', publicada en 1859, sentó las bases para la teoría de la evolución a través de la selección natural, un concepto revolucionario que transformó la biología y nuestro entendimiento del mundo natural.",
+      "imageUrl": "/characters/darwin.jpg",
+      "occupation": "Naturalist"
+    },
+    {
+      "id": 20,
+      "name": "Malala Yousafzai",
+      "birthDate": "1997-07-12",
+      "deathDate": null,
+      "nationality": "Pakistani",
+      "biography": "Malala Yousafzai, también conocida mononimamente como Malala, es una activista pakistaní por la educación femenina y la persona más joven en recibir el Premio Nobel. Es conocida por su defensa de la educación para mujeres y niños en su natal Valle de Swat en Khyber Pakhtunkhwa, noroeste de Pakistán, donde el Talibán local había prohibido en ocasiones a las niñas asistir a la escuela. En 2012, fue víctima de un intento de asesinato por su activismo, lo que atrajo la atención mundial hacia su causa. Malala ha continuado su lucha por los derechos de las niñas a la educación a nivel global.",
+      "imageUrl": "/characters/malala.jpg",
+      "occupation": "Activist"
+    },
+    {
+      "id": 21,
+      "name": "Vincent van Gogh",
+      "birthDate": "1853-03-30",
+      "deathDate": "1890-07-29",
+      "nationality": "Dutch",
+      "biography": "Vincent van Gogh fue un pintor postimpresionista holandés que se encuentra entre las figuras más famosas e influyentes en la historia del arte occidental. En poco más de una década, creó alrededor de 2,100 obras, incluyendo aproximadamente 860 pinturas al óleo, la mayoría de ellas en los últimos dos años de su vida. Van Gogh luchó con problemas de salud mental a lo largo de su vida y murió a los 37 años, aparentemente por suicidio. Su estilo distintivo y su uso expresivo del color y la forma han tenido un impacto duradero en el arte del siglo XX.",
+      "imageUrl": "/characters/vangogh.jpg",
+      "occupation": "Painter"
+    },
+    {
+      "id": 22,
+      "name": "Anne Frank",
+      "birthDate": "1929-06-12",
+      "deathDate": "1945-02-00",
+      "nationality": "German-Dutch",
+      "biography": "Anne Frank fue una diarista alemana-holandesa de ascendencia judía. Una de las víctimas judías del Holocausto más discutidas, ganó fama póstuma con la publicación de 'El diario de Ana Frank', en el cual documenta su vida en la clandestinidad desde 1942 hasta 1944, durante la ocupación alemana de los Países Bajos en la Segunda Guerra Mundial. El diario de Ana Frank se ha convertido en una obra clave en la literatura del Holocausto y proporciona una perspectiva íntima de la vida bajo la persecución nazi.",
+      "imageUrl": "/characters/annefrank.jpg",
+      "occupation": "Diarist"
+    },
+    {
+      "id": 23,
+      "name": "Frida Kahlo",
+      "birthDate": "1907-07-06",
+      "deathDate": "1954-07-13",
+      "nationality": "Mexican",
+      "biography": "Frida Kahlo fue una pintora mexicana conocida por sus numerosos retratos, autorretratos y obras inspiradas en la naturaleza y los artefactos de México. Inspirada por la cultura popular del país, empleó un estilo de arte popular naïf para explorar cuestiones de identidad, poscolonialismo, género, clase y raza en la sociedad mexicana. Su trabajo ha sido celebrado internacionalmente como emblemático del arte mexicano y del movimiento surrealista. A pesar de sus problemas de salud, que incluyeron un accidente de tráfico devastador y múltiples cirugías, Kahlo creó algunas de las imágenes más icónicas del siglo XX.",
+      "imageUrl": "/characters/kahlo.jpg",
+      "occupation": "Painter"
+    },
+    {
+      "id": 24,
+      "name": "Simón Bolívar",
+      "birthDate": "1783-07-24",
+      "deathDate": "1830-12-17",
+      "nationality": "Venezuelan",
+      "biography": "Simón Bolívar fue un líder militar y político venezolano que lideró a los países que actualmente son Venezuela, Bolivia, Colombia, Ecuador, Perú y Panamá a la independencia del Imperio español. Conocido como 'El Libertador', Bolívar jugó un papel crucial en la lucha por la independencia en América Latina y se convirtió en un símbolo de la liberación y la unificación de la región. Su visión de una América Latina unida, aunque no se materializó completamente, sigue siendo una influencia significativa en la política y la identidad regional.",
+      "imageUrl": "/characters/bolivar.png",
+      "occupation": "Political Leader"
+    },
+    {
+      "id": 25,
+      "name": "Fidel Castro",
+      "birthDate": "1926-08-13",
+      "deathDate": "2016-11-25",
+      "nationality": "Cuban",
+      "biography": "Fidel Castro fue un revolucionario comunista y político cubano que fue el líder de Cuba desde 1959 hasta 2008. Fue Primer Ministro de 1959 a 1976 y Presidente de 1976 a 2008. Bajo su liderazgo, Cuba se convirtió en un estado socialista de partido único; la industria y los negocios fueron nacionalizados y se implementaron reformas socialistas en toda la sociedad. Aunque su gobierno ha sido criticado por violaciones a los derechos humanos, Castro sigue siendo una figura influyente y controvertida en la historia contemporánea de América Latina y el mundo.",
+      "imageUrl": "/characters/castro.jpg",
+      "occupation": "Political Leader"
+    },
+    {
+      "id": 26,
+      "name": "Che Guevara",
+      "birthDate": "1928-06-14",
+      "deathDate": "1967-10-09",
+      "nationality": "Argentine",
+      "biography": "Che Guevara fue un revolucionario marxista, médico, autor, líder guerrillero, diplomático y teórico militar argentino. Figura destacada de la Revolución Cubana, su imagen estilizada se ha convertido en un símbolo contracultural ubicuo de rebelión e insignia global en la cultura popular. Guevara participó en la formación del nuevo gobierno cubano y promovió movimientos revolucionarios en varios países. Su vida y su legado siguen siendo objeto de estudio, debate y mitificación.",
+      "imageUrl": "/characters/che.jpg",
+      "occupation": "Revolutionary Leader"
+    },
+    {
+      "id": 27,
+      "name": "Madre Teresa",
+      "birthDate": "1910-08-26",
+      "deathDate": "1997-09-05",
+      "nationality": "Albanian-Indian",
+      "biography": "Madre Teresa, conocida en la Iglesia Católica Romana como Santa Teresa de Calcuta, fue una monja y misionera católica romana albanesa-india. Nació en Skopje (ahora la capital de Macedonia del Norte), entonces parte del Vilayato de Kosovo del Imperio Otomano. En 1950, fundó las Misioneras de la Caridad, una congregación religiosa dedicada al servicio de los 'más pobres entre los pobres'. A lo largo de su vida, Madre Teresa recibió numerosos premios y honores, incluido el Premio Nobel de la Paz en 1979. Su legado de compasión y servicio sigue vivo a través de la orden que fundó.",
+      "imageUrl": "/characters/teresa.jpg",
+      "occupation": "Nun and Missionary"
+    },
+    {
+      "id": 28,
+      "name": "John F. Kennedy",
+      "birthDate": "1917-05-29",
+      "deathDate": "1963-11-22",
+      "nationality": "American",
+      "biography": "John F. Kennedy, a menudo referido por sus iniciales JFK, fue un político estadounidense que se desempeñó como el 35º presidente de los Estados Unidos desde enero de 1961 hasta su asesinato en noviembre de 1963. Su presidencia estuvo marcada por eventos importantes como la Crisis de los Misiles en Cuba, el avance del Movimiento por los Derechos Civiles, y el establecimiento del Cuerpo de Paz. A pesar de su trágico final, JFK sigue siendo una figura carismática y respetada en la historia de Estados Unidos, recordado por su llamado a la acción cívica y su visión progresista.",
+      "imageUrl": "/characters/jfk.webp",
+      "occupation": "President"
+    },
+    {
+      "id": 29,
+      "name": "Steve Jobs",
+      "birthDate": "1955-02-24",
+      "deathDate": "2011-10-05",
+      "nationality": "American",
+      "biography": "Steve Jobs fue un magnate de los negocios estadounidense, diseñador industrial, inversor y propietario de medios. Fue presidente, director ejecutivo (CEO) y cofundador de Apple Inc.; presidente y accionista mayoritario de Pixar; miembro de la junta directiva de The Walt Disney Company tras la adquisición de Pixar; y fundador, presidente y CEO de NeXT. Jobs fue un pionero de la revolución de la computadora personal de los años 70 y 80 y dejó un legado duradero a través de sus innovaciones tecnológicas y su visión empresarial.",
+      "imageUrl": "/characters/jobs.jpg",
+      "occupation": "Entrepreneur"
+    },
+    {
+      "id": 30,
+      "name": "Elon Musk",
+      "birthDate": "1971-06-28",
+      "deathDate": null,
+      "nationality": "American",
+      "biography": "Elon Musk es un magnate de los negocios, diseñador industrial e ingeniero. Es el fundador, CEO, CTO y diseñador jefe de SpaceX; inversor temprano, CEO y arquitecto de productos de Tesla, Inc.; fundador de The Boring Company; cofundador de Neuralink; y cofundador y presidente inicial de OpenAI. Musk es conocido por su visión de futuro y sus ambiciosos proyectos para transformar industrias como el transporte, la energía y la exploración espacial. Su trabajo en empresas de alta tecnología y su enfoque en la innovación lo han convertido en una de las figuras más influyentes del mundo actual.",
+      "imageUrl": "/characters/musk.jpg",
+      "occupation": "Entrepreneur"
+    }
+  ]
+}
